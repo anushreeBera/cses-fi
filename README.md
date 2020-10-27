@@ -1,2 +1,3 @@
 # cses-fi
-For cses
+For Code Submission Evaluation System
+https://cses.fi/
